@@ -1,0 +1,12 @@
+maubot: 0.1.0
+id: is.ashley.dalle
+version: 1.0.8
+license: MIT
+modules:
+  - dalle
+config: true
+extra_files:
+  - base-config.yaml
+main_class: DalleBot
+database: true
+
